@@ -16,6 +16,7 @@ public class app {
 	System.out.println(c.getAnotherSize(2));
 	System.out.println(c.getAnotherDiameter(2));
 	System.out.println(c.getNewYear(c.getYear()));
+	System.out.println(c.getAnotherColor("White"));
 	c.setAnotherMakeAndModel("Audi", "Q7");
 	System.out.println(c);
 	}
